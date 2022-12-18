@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+#month-button {
+  color: rgb(156,156,156);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  border-color: rgb(156,156,156);
+  border-style: solid;
+  border-width: 2px;
+  width: 285px;
+  height: 40px;
+  margin-top: 10px;
+}
